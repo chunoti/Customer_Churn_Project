@@ -39,9 +39,9 @@ Divided the dataset in 70:30 ratio. Built the model on train set and predict the
 
 Selected the best model based on accuracy
 Linear Regression: 29.15 (RMSE)
-Simple Logistic Regression: 0.74 (Accuracy)
-Multiple Logistic Regression: 0.95 (Accuracy)
-Decision Tree: 0.76 (Accuracy)
+Simple Logistic Regression: 0.71 (Accuracy)
+Multiple Logistic Regression: 0.77 (Accuracy)
+Decision Tree: 0.74 (Accuracy)
 Random Forest: 0.75 (Accuracy)
 
 
